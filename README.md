@@ -82,16 +82,6 @@
 
 
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NipuniSaumya&show_icons=true&theme=tokyonight" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NipuniSaumya&layout=compact&theme=tokyonight" height="180"/>
-</p>
----
 
 ## 💻 Development Journey
 
