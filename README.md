@@ -1,10 +1,6 @@
-👋 Hi, I'm Nipuni Saumya
+<div align="center">👋 Hi, I'm Nipuni Saumya
 
-🎓 HNDIT Student | Aspiring Full Stack Developer
-
-Welcome to my GitHub profile! I'm an Information Technology student passionate about software development, web technologies, and creating practical digital solutions.
-
----
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=HNDIT+Student;Aspiring+Full+Stack+Developer;Web+%26+Software+Development;Always+Learning+%26+Building+%F0%9F%9A%80" alt="Typing SVG" /></div>---
 
 👩‍💻 About Me
 
@@ -65,14 +61,12 @@ I use GitHub to share my learning journey, academic projects, experiments, and s
 
 🤝 Connect With Me
 
-💼 LinkedIn:
-https://www.linkedin.com/in/nipuni-saumya-442a16372/
+<div align="center"><a href="https://www.linkedin.com/in/nipuni-saumya-442a16372/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+</a><a href="https://github.com/NipuniSaumya">
+<img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" />
+</a></div>---
 
-💻 GitHub:
-https://github.com/NipuniSaumya
+<div align="center">✨ Keep Learning • Keep Building • Keep Growing 🚀
 
----
-
-✨ Thanks for visiting my profile!
-
-Keep Learning • Keep Building • Keep Growing 🚀
+</div>
