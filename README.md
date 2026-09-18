@@ -3,13 +3,12 @@
 ### 🎓 HNDIT Student | 💻 Aspiring Full Stack Developer
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;HNDIT+Student;Aspiring+Full+Stack+Developer;Web+%26+Software+Developer;Always+Learning+%26+Building+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;HNDIT+Student;Aspiring+Full+Stack+Developer;Web+%26+Software+Developer;Always+Learning+%26+Building" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=NipuniSaumya&label=Profile%20Views&color=6C63FF&style=for-the-badge" alt="Profile Views" />
 </p>
-
 ---
 
 ## 👩‍💻 About Me
@@ -86,14 +85,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=NipuniSaumya&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NipuniSaumya&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=NipuniSaumya&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
